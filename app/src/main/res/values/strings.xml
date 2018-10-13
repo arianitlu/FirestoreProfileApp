@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FirestoreProfileApp</string>
+    <string name="edit_profile">Click a profile to edit</string>
+    <string name="no_internet_connection">You do not have internet connection</string>
+    <string name="add_cover">Add a cover photo</string>
+    <string name="create_profile">Create your profile</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="age">Age</string>
+    <string name="address">Address</string>
+    <string name="state">State</string>
+    <string name="town">Town</string>
+    <string name="country">Country</string>
+    <string name="dateBirth">Date of Birth</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_update">Update</string>
+</resources>
